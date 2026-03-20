@@ -21,34 +21,34 @@ The design focuses on clarity, usability, and cross-platform consistency.
 ## Screenshots
 
 ### Web – Home
-![Web Home](assets/webhome.png)
+![Web Home](assets/web-home.png)
 
 ### Web – Event Detail
-![Web Detail](assets/web detail.png)
+![Web Detail](assets/web-detail.png)
 
 ### Web – Seat Selection
-![Web Seat](assets/web seat.png)
+![Web Seat](assets/web-seat.png)
 
 ### Web – Payment
-![Web Checkout](assets/web payment.png)
+![Web Checkout](assets/web-payment.png)
 
 ### Web – Confirmation
-![Web Confirmation](assets/web confirmation.png)
+![Web Confirmation](assets/web-confirmation.png)
 
 ### Mobile – Home
-![Mobile Home](assets/mobile home.png)
+![Mobile Home](assets/mobile-home.png)
 
 ### Mobile – Event Detail
-![Mobile Home](assets/mobile detail.png)
+![Mobile Home](assets/mobile-detail.png)
 
 ### Mobile – Seat Selection
-![Mobile Home](assets/mobile seat.png)
+![Mobile Home](assets/mobile-seat.png)
 
 ### Mobile – Payment 
-![Mobile Home](assets/mobile payment.png)
+![Mobile Home](assets/mobile-payment.png)
 
 ### Mobile – Confirmation
-![Mobile Home](assets/mobile confirmation.png)
+![Mobile Home](assets/mobile-confirmation.png)
 
 ## User Flow
 Home → Event Detail → Seat Selection → Checkout → Confirmation
