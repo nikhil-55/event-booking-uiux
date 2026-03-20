@@ -18,19 +18,37 @@ The design focuses on clarity, usability, and cross-platform consistency.
 
 ## Screens Designed
 
-### Web
-- Home / Event Listing
-- Event Detail Page
-- Seat Selection Page
-- Checkout / Payment Page
-- Booking Confirmation Page
+## Screenshots
 
-### Mobile
-- Home / Event Listing
-- Event Detail Page
-- Seat Selection Page
-- Checkout / Payment Page
-- Booking Confirmation Page
+### Web – Home
+![Web Home](assets/web home.png)
+
+### Web – Event Detail
+![Web Detail](assets/web detail.png)
+
+### Web – Seat Selection
+![Web Seat](assets/web seat.png)
+
+### Web – Payment
+![Web Checkout](assets/web payment.png)
+
+### Web – Confirmation
+![Web Confirmation](assets/web confirmation.png)
+
+### Mobile – Home
+![Mobile Home](assets/mobile home.png)
+
+### Mobile – Event Detail
+![Mobile Home](assets/mobile detail.png)
+
+### Mobile – Seat Selection
+![Mobile Home](assets/mobile seat.png)
+
+### Mobile – Payment 
+![Mobile Home](assets/mobile payment.png)
+
+### Mobile – Confirmation
+![Mobile Home](assets/mobile confirmation.png)
 
 ## User Flow
 Home → Event Detail → Seat Selection → Checkout → Confirmation
