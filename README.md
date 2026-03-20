@@ -21,7 +21,7 @@ The design focuses on clarity, usability, and cross-platform consistency.
 ## Screenshots
 
 ### Web – Home
-![Web Home](assets/web-home.png)
+![Web Home](assets/webhome.png)
 
 ### Web – Event Detail
 ![Web Detail](assets/web detail.png)
